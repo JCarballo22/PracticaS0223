@@ -1,0 +1,12 @@
+C:\Users\Carba\source\repos\PracticaS0223\bin\Debug\PracticaS0223.exe.config
+C:\Users\Carba\source\repos\PracticaS0223\bin\Debug\PracticaS0223.exe
+C:\Users\Carba\source\repos\PracticaS0223\bin\Debug\PracticaS0223.pdb
+C:\Users\Carba\source\repos\PracticaS0223\bin\Debug\PracticaS0223.xml
+C:\Users\Carba\source\repos\PracticaS0223\obj\Debug\PracticaS0223.vbproj.AssemblyReference.cache
+C:\Users\Carba\source\repos\PracticaS0223\obj\Debug\PracticaS0223.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Carba\source\repos\PracticaS0223\obj\Debug\PracticaS0223.Resources.resources
+C:\Users\Carba\source\repos\PracticaS0223\obj\Debug\PracticaS0223.vbproj.GenerateResource.cache
+C:\Users\Carba\source\repos\PracticaS0223\obj\Debug\PracticaS0223.vbproj.CoreCompileInputs.cache
+C:\Users\Carba\source\repos\PracticaS0223\obj\Debug\PracticaS0223.exe
+C:\Users\Carba\source\repos\PracticaS0223\obj\Debug\PracticaS0223.xml
+C:\Users\Carba\source\repos\PracticaS0223\obj\Debug\PracticaS0223.pdb
